@@ -1,0 +1,15 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\PhoneDirectory_AssessmentProject.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\PhoneDirectory_AssessmentProject.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\PhoneDirectory_AssessmentProject.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.Form1.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.Properties.Resources.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.csproj.GenerateResource.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\EntityFramework.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\EntityFramework.SqlServer.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\EntityFramework.xml
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\bin\Debug\EntityFramework.SqlServer.xml
+W:\__WORK__\NewWave Technologies (India)\Training\Code\PhoneDirectory_AssessmentProject\PhoneDirectory_AssessmentProject\obj\Debug\PhoneDirectory_AssessmentProject.csproj.CopyComplete
